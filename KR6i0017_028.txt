@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:49.981940
+#+DATE: 2015-08-30 20:07:54.122484
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0017_T_028-0291c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 《佛說佛名經》卷第二十八¶
+《佛說佛名經》卷第二十八¶
 ¶
 
 「南無普光明佛　南無功德多寶海王佛　南¶
@@ -307,10 +306,7 @@
 惡道之所受報，唯生大悲救護一切眾生，使¶
 皆盡性廣化諸類俱登正覺。」¶
 
-:PROPERTIES:
-:head: 大乘蓮華寶達問答報應沙門經
-:END:
-¶
+大乘蓮華寶達問答報應沙門經¶
 
 寶達頃前入一剝皮飲血地獄。云何名曰剝¶
 皮飲血地獄？其地獄縱廣七十由旬，周匝鐵¶

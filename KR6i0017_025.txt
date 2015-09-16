@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:49.919402
+#+DATE: 2015-08-30 20:07:54.057811
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0017_T_025-0282b> ¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《佛說佛名經》卷第二十五¶
+《佛說佛名經》卷第二十五¶
 ¶
 
 「南無過境界步佛　南無須彌山聚佛　南無¶
@@ -249,7 +248,7 @@
 
 「今日至誠發露懺悔。¶
 
-「或嚵𠝖嬾惰不識羞恥，貪嗜飲食不誕艱辛，¶
+「或嚵[昔*刀]嬾惰不識羞恥，貪嗜飲食不誕艱辛，¶
 飲酒噉肉歌舞作樂，無有期度不知休息。或¶
 食諸生鱠飲噉五辛，薰穢經像排[穴/友]淨眾，縱¶
 心肆意不限理拯，疎遠善人親狎惡友。或貢¶
@@ -285,10 +284,7 @@
 善緣，攝守六根敬護三業，捍勞忍苦心不退¶
 沒，立菩提志荷負眾生。」¶
 
-:PROPERTIES:
-:head: 大乘蓮華寶達問答報應沙門經
-:END:
-¶
+大乘蓮華寶達問答報應沙門經¶
 
 寶達頃前入火米地獄。其地獄中流火灌注¶
 來燒罪人，火中有米亦皆火然，是諸罪人舉¶
