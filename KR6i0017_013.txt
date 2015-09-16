@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:49.451072
+#+DATE: 2015-08-30 20:07:52.312592
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0017_T_013-0233a> ¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《佛說佛名經》卷第十三¶
+《佛說佛名經》卷第十三¶
 ¶
 
 「南無無憂佛　南無住持速力佛　南無妙喜¶
@@ -320,10 +319,7 @@
 惡道之所受報，唯生大悲救護一切眾生，使¶
 皆盡性廣化諸類俱登正覺。」¶
 
-:PROPERTIES:
-:head: 大乘蓮華寶達問答報應沙門經
-:END:
-¶
+大乘蓮華寶達問答報應沙門經¶
 
 寶達頃前更入火箭地獄。云何名曰火箭地
 <pb:KR6i0017_T_013-0236b>¶

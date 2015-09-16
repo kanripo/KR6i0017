@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:49.508659
+#+DATE: 2015-08-30 20:07:52.362392
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0017_T_015-0240c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《佛說佛名經》卷第十五¶
+《佛說佛名經》卷第十五¶
 ¶
 
 「南無迦那伽無垢光明日炎雲佛　南無因陀¶
@@ -292,7 +291,7 @@
 沙佛　南無波頭摩勝佛　南無大光明佛
 <pb:KR6i0017_T_015-0243c>¶
 　南無法意佛　南無善法佛　南無稱勝佛¶
-　南無寶慧佛　南無微妙眼佛　南無燈佛¶
+　南無寶慧佛　南無微妙眼佛　南佛燈佛¶
 　南無擇義佛　南無自在佛　南無婆藪天佛¶
 　南無不去佛　南無擇勝佛　南無妙行佛¶
 　南無無礙月佛　南無無邊智上首佛　南無¶
@@ -485,10 +484,7 @@
 無上道，得淨無垢吉祥果報，悉令具足如來¶
 正覺。」¶
 
-:PROPERTIES:
-:head: 大乘蓮華寶達問答報應沙門經
-:END:
-¶
+大乘蓮華寶達問答報應沙門經¶
 
 寶達頃前更入一身然地獄。云何名曰身然¶
 地獄？其地獄中縱廣五十由旬，鐵壁周匝猛¶

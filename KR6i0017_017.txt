@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:49.564151
+#+DATE: 2015-08-30 20:07:52.423831
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0017_T_017-0250b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 《佛說佛名經》卷第十七¶
+《佛說佛名經》卷第十七¶
 ¶
 
 爾時，優波摩那比丘從座而起，偏袒右肩右¶
@@ -645,10 +644,7 @@
 槃不休不息，三十七品心心相應，十波羅蜜¶
 常現在前。」¶
 
-:PROPERTIES:
-:head: 大乘蓮華寶達問答報應沙門經
-:END:
-¶
+大乘蓮華寶達問答報應沙門經¶
 
 寶達頃前更入一斫手地獄。云何名曰斫手¶
 地獄？其地獄縱廣三十六由旬，其地獄中有¶
