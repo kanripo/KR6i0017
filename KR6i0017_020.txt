@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:25
+#+DATE: 2016-06-08 8:26
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6i0017_T_020-0265b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
@@ -337,7 +337,7 @@
 園，養蠶煮繭，養猫搦鼠傷殺滋甚。或打撲蚊¶
 虻螥蠅蜂蝎掐担蚤虱，或燒除糞掃，開決溝
 <pb:KR6i0017_T_020-0268c>¶
-渠枉害一切，或噉菓實或用穀米或水或菜¶
+渠枉害一切，或噉菓實或用[穀-(一/禾)+釆]米或水或菜¶
 橫殺眾生，或然樵薪或露燈燭焚諸蟲類，或¶
 食醬酢不看搖動，或瀉湯水澆殺蟲蟻。如是¶
 乃至行住坐臥四威儀中，恒常傷殺飛空著¶

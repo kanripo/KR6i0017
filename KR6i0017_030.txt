@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 8:25
+#+DATE: 2016-06-08 8:26
 #+TITLE: 佛說佛名經
 #+PROPERTY: CBETA_ID T14n0441
 #+PROPERTY: ID KR6i0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 441
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6i0017_T_030-0298b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
@@ -936,7 +936,7 @@
 獄、阿婆婆地獄、阿吒吒地獄、阿羅羅地獄，¶
 如是八寒八熱一切諸地獄，一一獄中復¶
 有八萬四千鬲子地獄以為眷屬，此中罪¶
-苦炮暑楚痛剝皮[方*(色-巴+布)]肉削骨打髓抽腸杖胇¶
+苦炮[烈-列+暑]楚痛剝皮[方*(色-巴+布)]肉削骨打髓抽腸杖胇¶
 無量諸苦，不可聞不可說。
 
 「南無佛！今日在¶
